@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A 2nd year Epitech student, mostly into learning and experiencing new stuff everyday !</h3>
+<h3 align="center">A 3rd year Epitech student, mostly into learning and experiencing new stuff everyday !</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leobaldachino" alt="leobaldachino" /></a> </p>
 
